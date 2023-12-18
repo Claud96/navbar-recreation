@@ -1,0 +1,40 @@
+body {
+    background-color: #fff;
+}
+.container {
+    background-color: #f0fbf8;
+    margin-top: 100px;
+    border: 2px solid #a5e1d9;
+    border-radius: 10px;
+}
+
+.col-2 img {
+    padding-left: 0px;
+}
+
+#moreLinks {
+    padding-top: 55px;
+}
+
+img {
+    padding: 5px;
+}
+
+ul {
+    font-weight: bold;
+    color: #3e53a2;
+    list-style-type: none;
+}
+
+#title {
+    color: #3e53a2;
+    font-weight: bold;
+    text-align: left;
+}
+
+#subForums {
+    margin-bottom: 10px;
+    text-align: left;
+    color: #333;
+    width: 56.25em;
+}
